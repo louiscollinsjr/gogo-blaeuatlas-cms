@@ -1,4 +1,4 @@
-baseURL: http://blaeuatlas.io/
+baseURL: https://gogo-blaeuatlas-cms.louiscollinsjr.now.sh
 languageCode: en-us
 title: BlaeuAtlas.io - Keep Exploring.
 theme: hugo-fresh
