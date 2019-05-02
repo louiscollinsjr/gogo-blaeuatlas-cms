@@ -16,7 +16,7 @@ params:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    logo: branding/BA-brand-black.svg
+    logo: BA-brand-black.svg
     # Main hero title
     title: BlaeuAtlas # See what we can do for you. #Desgin. Develope. Ship.
     # Hero subtitle (optional)
