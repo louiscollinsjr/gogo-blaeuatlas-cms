@@ -7,6 +7,7 @@ tags = ["responsive", "one page", "light", "onepage", "company", "clean", "landi
 features = []
 min_version = "0.45"
 
+
 [author]
   name = "Stefan M."
   homepage = "https://github.com/StefMa"

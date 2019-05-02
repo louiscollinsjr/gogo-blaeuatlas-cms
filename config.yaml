@@ -3,6 +3,10 @@ languageCode: en-us
 title: BlaeuAtlas.io - Keep Exploring.
 theme: hugo-fresh
 
+disableKinds:
+- taxonomy
+- taxonomyTerm
+
 params:
   navbarlogo:
   # Logo (from /images/logos/___)
